@@ -1,6 +1,12 @@
 
 > Open this page at [https://suitablymysterious.github.io/arcade-healthindicators/](https://suitablymysterious.github.io/arcade-healthindicators/)
 
+## Requirements:
+
+1. The ["Text Sprite"](https://github.com/microsoft/arcade-textExtension) Extension by [microsoft](https://github.com/microsoft)
+2. The ["arcade-sprite-data"](https://github.com/microsoft/arcade-sprite-data) Extension by [microsoft](https://github.com/microsoft)
+3. The ["arcade-sprite-util"](https://github.com/jwunderl/arcade-sprite-util) Extension by [jwunderl](https://github.com/jwunderl)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -9,14 +15,6 @@ This repository can be added as an **extension** in MakeCode.
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/suitablymysterious/arcade-healthindicators** and import
-
-## Edit this project ![Build status badge](https://github.com/suitablymysterious/arcade-healthindicators/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/suitablymysterious/arcade-healthindicators** and click import
 
 ## Blocks preview
 
